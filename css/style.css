@@ -22,6 +22,8 @@ table {
     font-size: large;
     font-weight: bold;
     padding-top: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 .main:hover{
@@ -30,3 +32,4 @@ table {
     width: 120px;
     box-shadow: 0 0 10px black;
 }
+
