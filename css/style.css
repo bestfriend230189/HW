@@ -1,3 +1,32 @@
 table {
     border-collapse: collapse;
 }
+
+.main{
+    display: inline-block;
+    height: 150px;
+    width: 120px;
+    background-color: white;
+    /*border: 1px solid black;*/
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.topside {
+    display: inline-block;
+    height: 15%;
+    width: 99%;
+    background-color: #42cef4;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding-top: 2%;
+}
+
+.main:hover{
+    display: inline-block;
+    height: 150px;
+    width: 120px;
+    box-shadow: 0 0 10px black;
+}
