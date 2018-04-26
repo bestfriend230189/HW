@@ -1,0 +1,20 @@
+.header {
+    background-color: #2b669a;
+    height: 200px;
+}
+.main {
+    background-color: #5bc0de;
+    height: 200px;
+}
+.one {
+    background-color: #3e8f3e;
+    height: 100px;
+}
+.two {
+    background-color:#3c3c3c;
+    height: 100px;
+}
+.three{
+    background-color:#5cb85c;
+    height: 100px;
+}
