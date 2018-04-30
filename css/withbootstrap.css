@@ -1,20 +1,222 @@
 .header {
-    background-color: #2b669a;
+    background-color: #f44144;
+    height: 85px;
+}
+.Rectangle43 {
+    background-color: #dc292c;
+    /*width: 1920px;*/
+    height: 11px;
+}
+
+.pictures_bg {
+    background-image: url(../images/image_bg.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:right;
+    /*background-color: #f7f7f7;*/
+    ;
+     height: 695px;
+    /*width: 1920px;*/
+}
+.mainblock{
+    width: 288px;
+    height: 607px;
+/*    margin-top: 10px;
+*/    margin-left: -250px;
+
+
+}
+.blockmenu{
+    background-color: #f44144;
+    text-align: left;
+    width: 288px;
+    height: 407px;
+    font-size: 18px;
+    color: white;
+
+}
+.loginblock{
+    background-color: #1c3c50;
+    text-align: center;
+    width: 288px;
     height: 200px;
+/*    font-size: 18px;*/
+    color: white; 
 }
-.main {
-    background-color: #5bc0de;
-    height: 200px;
+
+.prev{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: #f44144;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: -390px;
+    margin-top: 175px;
+    text-align: center;
 }
-.one {
-    background-color: #3e8f3e;
-    height: 100px;
+
+.username {
+    display: inline-block;
+    width: 80%;
+    height: 35px;
+    background-color: white;
+    margin-top: 31px;
+    margin-left: 29px;
 }
-.two {
-    background-color:#3c3c3c;
-    height: 100px;
+
+.pass{
+    display: inline-block;
+    width: 80%;
+    height: 35px;
+    background-color: white;
+    margin-top: 31px;
+    margin-left: 29px;
 }
-.three{
-    background-color:#5cb85c;
-    height: 100px;
+
+.ordernow {
+    display: inline-block;
+    height: 40px;
+    width: 150px;
+    background-color: #f44144;
+    color: white;
+    font-size: 18px;
+/*    font-weight: bold;
+*/   /* margin-left: -390px;
+    margin-top: 175px;*/
+    text-align: center;  
+    vertical-align: middle;
+/*    padding-bottom: -10px;
+*/}
+
+.next{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: #f44144;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 175px;
+    text-align: center;
+}
+
+.list1{
+    font-size: 15px;
+    margin-left: 25px
+}
+/*.list2{
+    margin-left: 20px
+}*/
+
+.imgbg{
+    height: 695px;
+    /*width: 1920px;*/
+}
+.background1 {
+    background-color: white;
+    height: 75px;
+    /*width: 1920px;*/
+}
+.rectangle31{
+    background-color:#efefef;
+    height: 949px;
+    /*width: 1920px;*/
+}
+
+.background2 {
+    background-color: white;
+    height: 715px;
+    /*width: 1920px;*/
+}
+
+.rectangle8{
+    background-color:#efefef;
+    height: 576px;
+    /*width: 1920px;*/
+}
+.Testimonials_bg{
+    background-color:#ffffff;
+    height: 352px;
+    /*width: 1920px;*/
+}
+
+.BG{
+    background-color:#f44144;
+    height: 401px;
+    /*width: 1920px;*/
+}
+
+
+.bg_menu_footer {
+    background-color: #17597e;
+    height: 65px;
+    /*width: 1920px;*/
+}
+
+.rectangle6 {
+    background-color: #204359;
+    height: 140px;
+    /*width: 1920px;*/
+}
+.rectangle {
+    background-color: #17597e;
+    height: 62px;
+    /*width: 1920px;*/
+}
+
+.blablacom {
+    height: 85px;
+    font-size: xx-large;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 22px;
+    /*margin-right: -100px;*/
+}
+.center{
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.callnow{
+	font-size: 13px;
+    color: white;
+    text-align: left;
+    margin-top: 24px;
+    margin-left: 114px;
+
+}
+.search{
+    display: inline-block;
+    width: 395px;
+    height: 42px;
+    background-color: white;
+    margin-top: 22px;
+    margin-left: 100px;
+
+}
+.srchimg{
+    text-align: left;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.blue {
+    background-color: blue;
+    height: 85px;
+}
+.yellow {
+    background-color: yellow;
+    height: 85px;
+}
+.white {
+    background-color: white;
+    height: 85px;
+}
+.gray {
+    background-color: gray;
+    height: 85px;
 }
